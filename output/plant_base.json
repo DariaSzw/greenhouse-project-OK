@@ -1,0 +1,152 @@
+[   
+    {
+        "nazwa": "Pomidor", "zapotrzebowanie_(w_litrach)": "8"
+    },
+    {
+        "nazwa": "Ogórek", "zapotrzebowanie_(w_litrach)": "7"
+    },
+    {
+        "nazwa": "Papryka", "zapotrzebowanie_(w_litrach)": "6"
+    },
+    {
+        "nazwa": "Sałata", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Szpinak", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Bazylia", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Rukola", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Pietruszka_naciowa", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Koperek", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Cebula", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Marchew", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Burak_ćwikłowy", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Rzodkiewka", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Por", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Brokuł", "zapotrzebowanie_(w_litrach)": "6"
+    },
+    {
+        "nazwa": "Kalafior", "zapotrzebowanie_(w_litrach)": "6"
+    },
+    {
+        "nazwa": "Brukselka", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Ziemniak_(wczesny)", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Truskawka", "zapotrzebowanie_(w_litrach)": "6"
+    },
+    {
+        "nazwa": "Poziomka", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Malina", "zapotrzebowanie_(w_litrach)": "6"
+    },
+    {
+        "nazwa": "Winorośl", "zapotrzebowanie_(w_litrach)": "7"
+    },
+    {
+        "nazwa": "Arbuz", "zapotrzebowanie_(w_litrach)": "8"
+    },
+    {
+        "nazwa": "Melon", "zapotrzebowanie_(w_litrach)": "7"
+    },
+    {
+        "nazwa": "Fasola_szparagowa", "zapotrzebowanie_(w_litrach)": "5"
+    },
+    {
+        "nazwa": "Groch", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Soczewica", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Soja", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Kapusta_głowiasta", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Kapusta_pekińska", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Jarmuż", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Cukinia", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Dynia", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Szczypiorek", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Estragon", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Tymianek", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Mięta", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Rozmaryn", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Lawenda", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Szałwia", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Oregano", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Kolendra", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Roszponka", "zapotrzebowanie_(w_litrach)": "2"
+    },
+    {
+        "nazwa": "Burak_liściowy_(boćwina)", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Kukurydza_cukrowa", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Chrzan", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Orzech_ziemny", "zapotrzebowanie_(w_litrach)": "3"
+    },
+    {
+        "nazwa": "Papaja", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Figowiec", "zapotrzebowanie_(w_litrach)": "4"
+    },
+    {
+        "nazwa": "Kawa", "zapotrzebowanie_(w_litrach)": "3"
+    }
+]

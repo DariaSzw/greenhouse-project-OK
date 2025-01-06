@@ -1,0 +1,27 @@
+[
+	{
+		"pierwsza_roślina": "Sałata",  "pozostały_czas_podlewania_pierwszej_rośliny": "10",
+		"druga_roślina": "Pomidor",  "pozostały_czas_podlewania_drugiej_rośliny": "20",
+		"obecny_koszt": "0",  "obecny_czas": "0"
+	},
+	{
+		"pierwsza_roślina": "Bazylia",  "pozostały_czas_podlewania_pierwszej_rośliny": "10",
+		"druga_roślina": "Pomidor",  "pozostały_czas_podlewania_drugiej_rośliny": "10",
+		"obecny_koszt": "2",  "obecny_czas": "10"
+	},
+	{
+		"pierwsza_roślina": "Szpinak",  "pozostały_czas_podlewania_pierwszej_rośliny": "13",
+		"druga_roślina": "Ogórek",  "pozostały_czas_podlewania_drugiej_rośliny": "18",
+		"obecny_koszt": "5",  "obecny_czas": "20"
+	},
+	{
+		"pierwsza_roślina": "Papryka",  "pozostały_czas_podlewania_pierwszej_rośliny": "15",
+		"druga_roślina": "Ogórek",  "pozostały_czas_podlewania_drugiej_rośliny": "5",
+		"obecny_koszt": "8",  "obecny_czas": "33"
+	},
+	{
+		"ostatnia_roślina": "Papryka",  "ostatni_czas_podlewania": "10",
+		"całkowity_koszt": "9",  "całkowity_czas_podlewania": "48",
+		"czas_trwania_algorytmu": "0"
+	}
+]
